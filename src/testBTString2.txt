@@ -1,0 +1,3 @@
+String
+"f my baby" "d hello" "g my ragtime gal" "b my honey" "a hello" "c my baby" "h my honey" "e hello" "i my ragtime gal"
+"a hello" "b my honey" "d hello" "f my baby" "g my ragtime gal" "c my baby" "e hello" "h my honey" "i my ragtime gal"
